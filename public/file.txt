@@ -1,15 +1,15 @@
-Title question 1; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod purus augue, id sodales ligula faucibus nec. Proin vitae dui feugiat, iaculis est non, dictum nisi.
-Title question 2; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod purus augue, id sodales ligula faucibus nec. Proin vitae dui feugiat, iaculis est non, dictum nisi.
-Title question 3; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod purus augue, id sodales ligula faucibus nec. Proin vitae dui feugiat, iaculis est non, dictum nisi.
-Title question 4; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod purus augue, id sodales ligula faucibus nec. Proin vitae dui feugiat, iaculis est non, dictum nisi.
-Title question 5; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod purus augue, id sodales ligula faucibus nec. Proin vitae dui feugiat, iaculis est non, dictum nisi.
-Title question 6; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod purus augue, id sodales ligula faucibus nec. Proin vitae dui feugiat, iaculis est non, dictum nisi.
-Title question 7; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod purus augue, id sodales ligula faucibus nec. Proin vitae dui feugiat, iaculis est non, dictum nisi.
-Title question 8; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod purus augue, id sodales ligula faucibus nec. Proin vitae dui feugiat, iaculis est non, dictum nisi.
-Title question 9; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod purus augue, id sodales ligula faucibus nec. Proin vitae dui feugiat, iaculis est non, dictum nisi.
-Title question 10; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod purus augue, id sodales ligula faucibus nec. Proin vitae dui feugiat, iaculis est non, dictum nisi.
-Title question 11; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod purus augue, id sodales ligula faucibus nec. Proin vitae dui feugiat, iaculis est non, dictum nisi.
-Title question 12; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod purus augue, id sodales ligula faucibus nec. Proin vitae dui feugiat, iaculis est non, dictum nisi.
-Title question 13; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod purus augue, id sodales ligula faucibus nec. Proin vitae dui feugiat, iaculis est non, dictum nisi.
-Title question 14; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod purus augue, id sodales ligula faucibus nec. Proin vitae dui feugiat, iaculis est non, dictum nisi.
-Title question 15; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod purus augue, id sodales ligula faucibus nec. Proin vitae dui feugiat, iaculis est non, dictum nisi.
+What is a DDoS (Distributed Denial of Service) attack ?; An attack aimed at making a service or website unavailable by overwhelming it with traffic.
+How does Blockchain technology work ?; It is a decentralized and secure database that records transactions in the form of blocks linked together.
+What is a botnet ?; A network of compromised machines used to carry out malicious attacks or send spam.
+What do the acronyms "Deep Web" and "Dark Web" stand for ?; The Deep Web refers to the non-indexed parts of the Internet, while the Dark Web is a specific section of the Deep Web, often used for illegal activities.
+What is a "Zero Day exploit"?; A software security vulnerability that is exploited before the developer has had time to fix it.
+What is adaptive algorithmics ?; A set of techniques where the algorithm evolves to improve its results based on collected data.
+What is "Deep Learning" ?; A subfield of machine learning that uses deep neural networks to simulate decision-making processes.
+What is the main difference between HTTP/1.1 and HTTP/2 ?; HTTP/2 enables simultaneous connections and better resource management to speed up page loading.
+What does "PUP" stand for in cybersecurity ?; Potentially Unwanted Program.
+What is "Social Engineering" in cybersecurity ?; A technique involving manipulating people into revealing confidential information.
+What does the acronym "SQLi" mean in the context of database vulnerabilities ?; SQL Injection, an attack that allows malicious SQL queries to be executed.
+What is the principle behind "Machine Learning" ?; Machines learn from data to make predictions without being explicitly programmed for the task.
+What is a "Deepfake" ?; A technology that uses artificial intelligence to create manipulated videos, usually to deceive.
+What is a "Red Team" in cybersecurity ?; A team that simulates attacks to test the security of a system or network.
+What is the difference between symmetric encryption and asymmetric encryption ?; Symmetric encryption uses a single key for encryption and decryption, while asymmetric encryption uses a public key and a private key.
