@@ -4,7 +4,7 @@ import Explanation from './components/Explanation.vue';
 
 const routes = [
     { path: '/', component: Home },  
-    { path: '/ligne/:index', component: Explanation, props: true },
+    { path: '/explanation/:index', component: Explanation, props: true },
 ];
 
 const router = createRouter({
