@@ -1,12 +1,18 @@
 <template>
-    <div>
+    <main>
+        <img class="logo" src="../assets/logo-ctrl-the-web.png" alt="">
+        <div class="div-icon">
+            <img class="icon" src="../assets/Union.png" alt="">
+            <img class="icon" src="../assets/Union.png" alt="">
+            <img class="icon" src="../assets/Union.png" alt="">
+        </div>
         <h1>Explanation of difficult questions</h1>
         <ul>
             <li v-for="(question, index) in questions" :key="index">
                 <router-link :to="`/explanation/${index+1}`">{{ question }}</router-link>
             </li>
         </ul>
-    </div>
+    </main>
 </template>
 
 <script>

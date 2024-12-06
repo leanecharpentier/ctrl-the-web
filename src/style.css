@@ -1,79 +1,78 @@
-:root {
-	font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
-	line-height: 1.5;
-	font-weight: 400;
+@import url('https://fonts.googleapis.com/css2?family=Londrina+Solid:wght@100;300;400;900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 
-	color-scheme: light dark;
-	color: rgba(255, 255, 255, 0.87);
-	background-color: #242424;
-
-	font-synthesis: none;
-	text-rendering: optimizeLegibility;
-	-webkit-font-smoothing: antialiased;
-	-moz-osx-font-smoothing: grayscale;
-}
-
-a {
-	font-weight: 500;
-	color: #646cff;
-	text-decoration: inherit;
-}
-a:hover {
-	color: #535bf2;
+* {
+	margin: 0;
+	padding: 0;
+	color: white;
+	font-family: "Londrina Solid", sans-serif;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 18px;
 }
 
 body {
-	margin: 0;
-	display: flex;
-	place-items: center;
-	min-width: 320px;
-	min-height: 100vh;
+	background-color: #1C3144;
+}
+
+a {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
 }
 
 h1 {
-	font-size: 3.2em;
-	line-height: 1.1;
+	font-weight: 900;
+	font-size: 30px;
+	margin: 20px 0;
 }
 
-button {
-	border-radius: 8px;
-	border: 1px solid transparent;
-	padding: 0.6em 1.2em;
-	font-size: 1em;
-	font-weight: 500;
-	font-family: inherit;
-	background-color: #1a1a1a;
-	cursor: pointer;
-	transition: border-color 0.25s;
+h2 {
+	font-weight: 600;
+	font-size: 20px;
+	margin: 0 0 20px 0;
 }
-button:hover {
-	border-color: #646cff;
+
+main {
+	width: 80vw;
+	margin: auto;
+	padding-bottom: 50px;
 }
-button:focus,
-button:focus-visible {
-	outline: 4px auto -webkit-focus-ring-color;
+
+ul {
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+}
+
+li {
+	margin-left: 30px;
+}
+
+.div-icon {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	gap: 20px;
 }
 
 .card {
-	padding: 2em;
+	background-color: #FFBA08;
+	padding: 30px;
+	border-radius: 20px;
 }
 
-#app {
-	max-width: 1280px;
-	margin: 0 auto;
-	padding: 2rem;
-	text-align: center;
+.card p, .card h2 {
+	color: #1C3144;
 }
 
-@media (prefers-color-scheme: light) {
-	:root {
-		color: #213547;
-		background-color: #ffffff;
-	}
-	a:hover {
-		color: #747bff;
-	}
-	button {
-		background-color: #f9f9f9;
-	}
+.logo {
+	width: 100%;
+	padding-top: 30px;
+}
+
+.icon {
+	width: 30px;
+	height: auto;
 }

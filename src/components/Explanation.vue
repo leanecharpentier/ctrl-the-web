@@ -1,9 +1,11 @@
 <template>
-	<div>
+	<main>
 		<h1>Explanation : </h1>
-		<p>{{ ligne.question }}</p>
-		<p>{{ ligne.answer }}</p>
-	</div>
+		<div class="card">
+			<h2>{{ ligne.question }}</h2>
+			<p>{{ ligne.answer }}</p>
+		</div>
+	</main>
 </template>
 
 <script>
